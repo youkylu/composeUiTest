@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComposeUiTest</string>
+
+    <string name="home">Home</string>
+
+    <string name="find">Find</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="click">Click Icon</string>
+
+    <string name="load_error">Can\'t update latest news</string>
+    <string name="retry">Retry</string>
+
+    <string name="home_tap_to_load_content">Tap to load content</string>
+</resources>
